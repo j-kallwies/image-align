@@ -20,6 +20,8 @@
 #ifndef IMAGE_ALIGN_ALIGN_BASE_H
 #define IMAGE_ALIGN_ALIGN_BASE_H
 
+#include <limits>
+
 #include <imagealign/warp.h>
 #include <imagealign/config.h>
 #include <imagealign/image_pyramid.h>
